@@ -1,2 +1,10 @@
 
-/* Your CSS Code here. */
+aside {
+  width: 20%;
+  padding-left: 5px;
+  margin-left: 5px;
+  float: right;
+	color: black;
+  font-style: italic;
+  background-color: yellow;
+}
